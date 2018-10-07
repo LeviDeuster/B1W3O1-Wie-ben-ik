@@ -1,0 +1,23 @@
+body{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+img {
+    filter: grayscale(75%);
+    width: 10%;
+    height: 10%;
+    float: none;
+}
+
+a{
+    color: white;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+p{
+    padding-left: 30%;
+    padding-right: 30%;
+}
